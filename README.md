@@ -1,4 +1,8 @@
-# Project 4B: SmallC Interpreter
+# CMSC330 Parser and Linter Project 
+The following is the exact instructions provided by the CMSC330 Instructors at the University of Maryland in the Fall 2019 semester.
+
+Project 4B: SmallC Interpreter
+-----------------------------------
 
 CMSC 330, Summer 2019
 
