@@ -1,0 +1,15 @@
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Start test public:3:stmt_basic.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Test public:3:stmt_basic is successful.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: End test public:3:stmt_basic.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Start test public:9:assign_exp.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Test public:9:assign_exp is successful.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: End test public:9:assign_exp.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Start test public:11:equal.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Test public:11:equal is successful.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: End test public:11:equal.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Start test public:15:exp_3.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Test public:15:exp_3 is successful.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: End test public:15:exp_3.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Start test public:23:test_1.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: Test public:23:test_1 is successful.
+2019-11-18T12:26:01+00:00 DESKTOP-9OET7OD#04 I: End test public:23:test_1.
