@@ -1,5 +1,5 @@
 # CMSC330 Parser and Linter Project 
-The following is the exact instructions provided by the CMSC330 Instructors at the University of Maryland in the Fall 2019 semester.
+The following is the exact instructions provided by the CMSC330 Instructors at the University of Maryland in the Fall 2019 semester. Additional files have been provided such as the scripts to submit the project. The code that I have constructed can be found in the src directory. 
 
 Project 4B: SmallC Interpreter
 -----------------------------------
